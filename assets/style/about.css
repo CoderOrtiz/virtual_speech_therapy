@@ -1,0 +1,88 @@
+h1 {
+  font-family: "Questrial";
+  font-style: normal;
+  letter-spacing: 2px;
+  color: #484848;
+  font-size: 25px;
+  vertical-align: top;
+  text-align: center;
+  padding-top: 52px;
+  padding-bottom: 25px;
+}
+
+.navbar-expand-lg .navbar-collapse {
+  display: flex !important;
+  flex-basis: auto;
+  flex-direction: column;
+  padding-bottom: 2%;
+  font-size: 18px;
+}
+
+h3 {
+  background-color: #3fa796;
+  text-align: center;
+  color: aliceblue;
+  padding: 66px;
+  margin-bottom: 55px;
+}
+
+.emily_and_kami_container-1 {
+  float: left;
+  text-align: right;
+  margin-bottom: 55px;
+}
+
+.emily_and_kami_container-2 {
+  float: right;
+  text-align: left;
+  width: 395px;
+  /* max-width: 33%; */
+  word-wrap: break-word;
+  display: block;
+  margin-bottom: 55px;
+}
+
+.professional_title {
+  text-align: right;
+  padding-right: 110px;
+}
+
+.about_text {
+  padding-top: 4%;
+}
+
+.tawni {
+  margin: 0 auto;
+}
+
+.tawni_container-1 {
+  text-align: center;
+  margin: 0 0 0 100px;
+  width: 395px;
+}
+
+.tawni_container-2 {
+  margin-bottom: 55px;
+}
+
+.profile_pics {
+  width: 440px;
+}
+
+.hr_header {
+  width: 95px;
+  text-align: center;
+}
+
+.banner {
+  text-align: center;
+  width: 100%;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+  font-size: 15px;
+  color: #8e8e8e;
+  min-height: 100%;
+  background: #f9f9f9;
+}
