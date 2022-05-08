@@ -124,11 +124,34 @@ h6 {
   padding-bottom: 20px;
 }
 
+/* Our Global Organizations Section */
 
 
+.global_organizations {
+  padding: 50px 180px;
+  text-align: center;
+  color: #484848;
+}
 
+.global_org_images {
+ height: 350px;
+}
 
+.global_organizations_header {
+  font-weight: 500;
+  font-size: 47px;
+}
 
+.global_organization_paragraph {
+  font-weight: 300;
+  padding-bottom: 60px;
+}
 
+#carouselExampleIndicators {
+  background-color: #D1D1D1;
+  border-radius: 10%;
+  
+  
 
+}
 
