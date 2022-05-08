@@ -34,7 +34,7 @@ h1 {
 h3 {
   background-color: #3fa796;
   text-align: center;
-  color: aliceblue;
+  color: rgb(249, 242, 242);
   padding: 66px;
   margin-bottom: 55px;
 }
@@ -98,7 +98,31 @@ h3 {
   padding-top: 4%;
 }
 
+/* Our Vision */
 
+.our_vision {
+  background-color: #3fa796;
+  color: rgb(249, 242, 242);
+  padding: 50px 180px;
+  text-align: center;
+}
+
+.our_vision_headers{
+  font-size: 35px;
+  padding-bottom: 10px;
+}
+
+h6 {
+  line-height: 2;
+  font-size: 18px;
+  font-weight: 100;
+  padding-bottom: 80px;
+}
+
+.our_vision_quotes {
+  font-weight: 100;
+  padding-bottom: 20px;
+}
 
 
 
