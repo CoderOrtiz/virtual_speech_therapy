@@ -137,6 +137,11 @@ h6 {
   background-color: #3fa796;
 }
 
+
+.loh_color, .lop_color {
+  color: rgb(249, 242, 242);
+}
+
 .global_org_images, .local_org_images {
  height: 350px;
 }
@@ -156,4 +161,22 @@ h6 {
   border-radius: 10%;
 }
 
+/* More About Emily Section */
 
+.more_about_emily {
+  color: #8e8e8e;
+  padding: 50px 180px;
+}
+
+.more_about_emily h2 {
+  color: #484848;
+  text-align: center;
+  font-size: 35px;
+}
+
+.more_about_emily p {
+  font-size: 17px;
+  line-height: 1.5;
+  font-weight: 100;
+  padding-bottom: 10px;
+}
