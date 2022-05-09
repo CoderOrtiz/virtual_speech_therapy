@@ -124,16 +124,20 @@ h6 {
   padding-bottom: 20px;
 }
 
-/* Our Global Organizations Section */
+/* Global & Local Organizations Section */
 
 
-.global_organizations {
+.global_organizations, .local_organizations {
   padding: 50px 180px;
   text-align: center;
   color: #484848;
 }
 
-.global_org_images {
+.local_organizations_background_color {
+  background-color: #3fa796;
+}
+
+.global_org_images, .local_org_images {
  height: 350px;
 }
 
@@ -142,16 +146,14 @@ h6 {
   font-size: 47px;
 }
 
-.global_organization_paragraph {
+.global_organization_paragraph, .local_organizations_paragraph {
   font-weight: 300;
   padding-bottom: 60px;
 }
 
-#carouselExampleIndicators {
+#carouselExampleIndicators, #carouselExampleIndicators2 {
   background-color: #D1D1D1;
   border-radius: 10%;
-  
-  
-
 }
+
 
