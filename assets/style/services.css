@@ -32,31 +32,44 @@ body {
     width: 100%;
   }
   
- section.teletherapy_section {
+ .teletherapy_section, .pediatrics_section {
     background-color: #2a9280;
     text-align: center;
     color: rgb(249, 242, 242);
     margin-bottom: 55px;
-    font-family: "Questrial";
+    
   }
 
-  .img_1, .img_2 {
+  .img_1, .img_2, .img_3 {
       float: right;
+  }
+
+  .img_1 {
+    padding-bottom: 60px;
+  }
+
+  .img_2 {
+    padding-bottom: 140px;
+  }
+
+  .img_3{
+    margin-top: 50px;
+    margin-bottom: 175px;
   }
 
   h3 {
       padding: 60px 0 20px 0;
-      font-size: 40px;
-      font-weight: 500;
+      font-size: 33px;
+      font-weight: 100;
   }
 
   .paragraph {
-      margin-top: -17px;
+      margin-top: -11px;
       text-align: left;
-      font-size: 20px;
+      font-size: 17px;
       font-weight: 100;
       width: 470px;
-      line-height: 2.5;
+      line-height: 2.4;
   }
 
   .adults_and_seniors_section {
@@ -66,10 +79,10 @@ body {
 
   .adults_and_seniors_heading {
     padding: 60px 0 20px 0;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: 100;
   }
 
   .adults_and_seniors p {
       color: #8e8e8e;
-  }
+ }
