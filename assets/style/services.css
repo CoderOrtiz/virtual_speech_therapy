@@ -1,0 +1,60 @@
+body {
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    color: #8e8e8e;
+    min-height: 100%;
+    background: #f9f9f9;
+  }
+  
+  h1 {
+    font-family: "Questrial";
+    font-style: normal;
+    letter-spacing: 2px;
+    color: #484848;
+    font-size: 25px;
+    vertical-align: top;
+    text-align: center;
+    padding-top: 52px;
+    padding-bottom: 25px;
+    font-weight: 100;
+  }
+  
+  .navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+    flex-direction: column;
+    padding-bottom: 2%;
+    font-size: 18px;
+  }
+  
+  .banner {
+    text-align: center;
+    width: 100%;
+  }
+  
+ section.teletherapy_section {
+    background-color: #2a9280;
+    text-align: center;
+    color: rgb(249, 242, 242);
+    margin-bottom: 55px;
+    font-family: "Questrial";
+  }
+
+  .img_1 {
+      float: right;
+  }
+
+  h3 {
+      padding: 60px 0 20px 0;
+      font-size: 40px;
+      font-weight: 500;
+  }
+
+  .paragraph {
+      margin-top: -17px;
+      text-align: left;
+      font-size: 20px;
+      font-weight: 100;
+      width: 470px;
+      line-height: 2.5;
+  }

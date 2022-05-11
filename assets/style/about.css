@@ -32,7 +32,7 @@ h1 {
 }
 
 h3 {
-  background-color: #3fa796;
+  background-color: #2a9280;
   text-align: center;
   color: rgb(249, 242, 242);
   padding: 66px;
@@ -101,7 +101,7 @@ h3 {
 /* Our Vision */
 
 .our_vision {
-  background-color: #3fa796;
+  background-color: #2a9280;
   color: rgb(249, 242, 242);
   padding: 50px 180px;
   text-align: center;
@@ -134,7 +134,7 @@ h6 {
 }
 
 .local_organizations_background_color {
-  background-color: #3fa796;
+  background-color: #2a9280;
 }
 
 
@@ -212,7 +212,7 @@ footer p {
 }
 
 .social_media_icons:hover {
-  color: #3fa796;
+  color: #2a9280;
 }
 
 footer hr {
