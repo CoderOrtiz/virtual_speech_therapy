@@ -70,3 +70,58 @@ span {
       color:#484848;
       font-weight: 300;
 }
+
+/* Footer */
+footer {
+    background-color: #f3f3f3; 
+    padding: 70px 0 50px 0
+  }
+  .footer-content{
+    width: 1300px;
+    margin: 0 auto;
+  }
+  
+  footer p {
+    font-family:'Raleway', sans-serif;
+    color: #484848;
+    font-weight: 100;
+    display: inline;
+    margin-left: 180px;
+  }
+  
+  .social_media_group {
+    margin-left: 900px;
+  }
+  
+  .social_media_icons {
+    padding: 0 8px;
+    color: #AAAAAA;
+  }
+  
+  .social_media_icons:hover {
+    color: #3fa796;
+  }
+  
+  footer hr {
+    margin: -3px auto 0 180px;
+    width: 950px;
+    background-color: #8e8e8e;
+    opacity: 25%;
+  }
+  
+  .hours, .phone, .email {
+    color: #8e8e8e;
+    font-size: 14px;
+  }
+  
+  .phone, .email {
+    margin-left: 64px;
+  }
+  
+  .phone-title {
+    margin-left: 110px;
+  }
+  
+  .email-title {
+    margin-left: 70px;
+  }
