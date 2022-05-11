@@ -1,0 +1,147 @@
+body {
+  font-family: "Raleway", sans-serif;
+  font-size: 15px;
+  color: #8e8e8e;
+  min-height: 100%;
+  background: #f9f9f9;
+}
+
+h1 {
+  font-family: "Questrial";
+  font-style: normal;
+  letter-spacing: 2px;
+  color: #484848;
+  font-size: 25px;
+  vertical-align: top;
+  text-align: center;
+  padding-top: 52px;
+  padding-bottom: 25px;
+}
+
+.navbar-expand-lg .navbar-collapse {
+  display: flex !important;
+  flex-basis: auto;
+  flex-direction: column;
+  padding-bottom: 2%;
+  font-size: 18px;
+}
+
+/* Banner */
+.banner {
+  text-align: center;
+  width: 100%;
+}
+
+/* Schedule an Appointment Section */
+.schedule_an_appointment,
+.schedule_an_appointment h2 {
+  font-size: 25px;
+  padding-top: 30px;
+  background-color: #2a9280;
+  color: rgb(249, 242, 242);
+  text-align: center;
+}
+
+span {
+  font-weight: 400 ;
+}
+
+.payment_options {
+  font-weight: 100;
+  font-size: medium;
+}
+
+.call_or_book {
+  padding-bottom: 35px;
+  font-weight: 100;
+  font-size: medium;
+}
+
+hr {
+  margin-top: 35px;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(249, 242, 242);
+  background-color: rgb(249, 242, 242);
+  opacity: 100%;
+}
+
+.pending_approval {
+  color: rgb(255, 255, 255);
+  margin-top: -50px;
+font-size: 33px;
+font-weight: 100;
+}
+
+/* Welcome Video */
+.welcome_video {
+  color: #484848;
+  text-align: center;
+  font-size: 33px;
+  padding-top: 50px;
+  margin-bottom: 75px;
+}
+
+.welcome_video span {
+  font-weight: 500;
+  
+}
+.welcome_video p {
+  font-weight: 100;
+}
+
+/* Footer */
+footer {
+  background-color: #f3f3f3; 
+  padding: 70px 0 50px 0
+}
+.footer-content{
+  width: 1300px;
+  margin: 0 auto;
+}
+
+footer p {
+  font-family:'Raleway', sans-serif;
+  color: #484848;
+  font-weight: 100;
+  display: inline;
+  margin-left: 180px;
+}
+
+.social_media_group {
+  margin-left: 900px;
+}
+
+.social_media_icons {
+  padding: 0 8px;
+  color: #AAAAAA;
+}
+
+.social_media_icons:hover {
+  color: #3fa796;
+}
+
+footer hr {
+  margin: -3px auto 0 180px;
+  width: 950px;
+  background-color: #8e8e8e;
+  opacity: 25%;
+}
+
+.hours, .phone, .email {
+  color: #8e8e8e;
+  font-size: 14px;
+}
+
+.phone, .email {
+  margin-left: 64px;
+}
+
+.phone-title {
+  margin-left: 110px;
+}
+
+.email-title {
+  margin-left: 70px;
+}
