@@ -33,6 +33,21 @@ h1 {
 }
 
 /* Client Portal Button Styling */
+.vote_button h3, .vote_button p {
+  color: #ffffff;
+}
+
+.vote_button h3 {
+  margin-top: -10px;
+  font-size: 30px;
+}
+
+.vote_button p {
+  font-size: 24px;
+  font-weight: 100;
+}
+
+
 .vote_button {
       padding: 70px 0 70px 0;
       text-align: center;
@@ -43,7 +58,7 @@ button {
       background-color: #484848;
       color: white;
       font-weight: 100;
-      padding: 8px 25px;
+      padding: 6px 18px;
       font-size: 15px;
       letter-spacing: 2px;
       transition: 0.4s;
