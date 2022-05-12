@@ -1,0 +1,127 @@
+body {
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    color: #8e8e8e;
+    min-height: 100%;
+    background: #f9f9f9;
+  }
+  
+  h1 {
+    font-family: "Questrial";
+    font-style: normal;
+    letter-spacing: 2px;
+    color: #484848;
+    font-size: 25px;
+    vertical-align: top;
+    text-align: center;
+    padding-top: 52px;
+    padding-bottom: 25px;
+  }
+  
+  .navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+    flex-direction: column;
+    padding-bottom: 2%;
+    font-size: 18px;
+  }
+  
+  .banner {
+    text-align: center;
+    width: 100%;
+  }
+  
+/* Map */
+.map {
+    text-align: right;
+    padding-bottom: 75px;
+}
+
+/* Contact Information */
+  .contact {
+    background-color: #2a9280;
+    text-align: center;
+    color: rgb(249, 242, 242);
+    padding-top: 55px;
+    padding-bottom: 55px;
+
+  }
+
+  .contact h3 {
+    font-size: 35px;
+    padding-bottom: 25px;
+}
+
+.paragraph {
+    padding-top: 300px;
+    background-color: black;
+    color: black;
+}
+
+.contact_details {
+    padding-top: 30px;
+}
+.contact_details p{
+    text-align: left;
+    font-weight: 100;
+    font-size: 17px;
+    margin: 0;
+  }
+
+  span {
+      font-size: 25px;
+  }
+
+  /* Footer */
+footer {
+  background-color: #f3f3f3; 
+  padding: 70px 0 50px 0
+}
+.footer-content{
+  width: 1300px;
+  margin: 0 auto;
+}
+
+footer p {
+  font-family:'Raleway', sans-serif;
+  color: #484848;
+  font-weight: 100;
+  display: inline;
+  margin-left: 180px;
+}
+
+.social_media_group {
+  margin-left: 900px;
+}
+
+.social_media_icons {
+  padding: 0 8px;
+  color: #AAAAAA;
+}
+
+.social_media_icons:hover {
+  color: #2a9280;
+}
+
+footer hr {
+  margin: -3px auto 0 180px;
+  width: 950px;
+}
+
+.hours, .phone, .email {
+  color: #8e8e8e;
+  font-size: 14px;
+}
+
+.phone, .email {
+  margin-left: 64px;
+}
+
+.phone-title {
+  margin-left: 110px;
+}
+
+.email-title {
+  margin-left: 70px;
+}
+
