@@ -1,0 +1,77 @@
+body {
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    color: #8e8e8e;
+    min-height: 100%;
+    background-color: #f9f9f9;
+}
+  
+h1 {
+    font-family: "Questrial";
+    font-style: normal;
+    letter-spacing: 2px;
+    color: #484848;
+    font-size: 25px;
+    vertical-align: top;
+    text-align: center;
+    padding-top: 52px;
+    padding-bottom: 25px;
+    font-weight: 100;
+}
+  
+.navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+    flex-direction: column;
+    padding-bottom: 2%;
+    font-size: 18px;
+}
+  
+.banner {
+    text-align: center;
+    width: 100%;
+}
+
+/* Just So You Know Section */
+.just_so_you_know_section {
+    background-color: #2a9280;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.just_so_you_know_section h3, .just_so_you_know_section p {
+  color: rgb(249, 241, 241);
+  width: 900px;
+  margin: 0 auto;
+}
+
+.just_so_you_know_section h3 {
+  font-size: 35px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.just_so_you_know_section p {
+  padding-top: 15px;
+  font-size: 17px;
+  font-weight: 100;
+  line-height: 2;
+  padding-bottom: 25px;
+}
+
+/* Video Tutorial */
+.video_tutorial_video {
+    text-align: center;
+    font-size: 35px;
+    padding-bottom: 60px;
+}
+
+span {
+  font-weight: 500;
+}
+
+.video_tutorial_video p {
+    padding-top: 50px;
+    color:#484848;
+    font-weight: 300;
+}
