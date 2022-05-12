@@ -1,0 +1,54 @@
+body {
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    color: #8e8e8e;
+    min-height: 100%;
+    background-color: #f9f9f9;
+}
+  
+h1 {
+    font-family: "Questrial";
+    font-style: normal;
+    letter-spacing: 2px;
+    color: #484848;
+    font-size: 25px;
+    vertical-align: top;
+    text-align: center;
+    padding-top: 52px;
+    padding-bottom: 25px;
+    font-weight: 100;
+}
+  
+.navbar-expand-lg .navbar-collapse {
+    display: flex !important;
+    flex-basis: auto;
+    flex-direction: column;
+    padding-bottom: 2%;
+    font-size: 18px;
+}
+  
+.banner {
+    text-align: center;
+    width: 100%;
+}
+
+.book_online_button {
+      padding: 70px 0 70px 0;
+      text-align: center;
+      background-color: #2a9280;
+}
+
+button {
+      background-color: #484848;
+      color: white;
+      font-weight: 100;
+      padding: 8px 25px;
+      font-size: 15px;
+      letter-spacing: 2px;
+      transition: 0.4s;
+}
+
+button:hover {
+      background-color: #636363;
+      transition: 0.4s;
+}
