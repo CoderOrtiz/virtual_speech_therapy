@@ -7,24 +7,72 @@ body {
 }
 
 h1 {
-  font-family: "Questrial";
   font-style: normal;
   letter-spacing: 2px;
   color: #484848;
   font-size: 25px;
   vertical-align: top;
   text-align: center;
-  padding-top: 52px;
-  padding-bottom: 25px;
+  padding-top: 54px;
+  padding-bottom: 0px;
 }
 
+.page_header {
+  font-weight: 100;
+  font-size: 23px;
+}
+
+/* Navigation Bar */
 .navbar-expand-lg .navbar-collapse {
-  display: flex !important;
+  color: #d0d0d0c3;
+  display: flex;
   flex-basis: auto;
   flex-direction: column;
-  padding-bottom: 2%;
-  font-size: 18px;
+  font-size: 14px;
+  letter-spacing: 2px;
+  font-weight: 100;
+  padding-bottom: 35px;
 }
+
+.nav-item {
+  padding: 6px;
+}
+
+.nav-item:hover {
+  background-color: #f1f1f1;
+  border-radius: 5px;
+}
+
+#nav_hr:before, #nav_hr:after {
+  background-color: #d0d0d0c3;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 5%;
+}
+
+#nav_hr:before {
+  top: 35px;
+  right: 29px;
+  margin-left: -25px;
+}
+
+#nav_hr:after {
+  left: 845px;
+  bottom: 35px;
+}
+
+.active.nav-item:hover {
+  background-color: #f1f1f1;
+}
+
+.active {
+  background-color: #f1f1f1;
+  border-radius: 5px;
+}
+
 
 /* Banner */
 .banner {
